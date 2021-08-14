@@ -1,0 +1,13 @@
+{
+  "name": "OutLinker",
+  "version": "0.0.1",
+  "author": "Doublem.org",
+  "description": "OutLinker is a 3rd party connector layer services",
+  "homepage": "https://doublem.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC"
+}
