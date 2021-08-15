@@ -8,7 +8,7 @@ public class TemplateController {
 
     @GetMapping("/health")
     public String healthCheckTemplate(){
-        return "Good";
+        return "good";
     }
 
 }
